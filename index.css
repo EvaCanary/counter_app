@@ -34,9 +34,8 @@
     background-color: #d38994;
 }
 .counter {
-    position: relative;
-    top: 126px;
-    left: 709px;
+    margin-top: 126px;
+    margin-left: 709px;
     margin-bottom: 30px;
     font-weight: 700;
     line-height: 44px;
