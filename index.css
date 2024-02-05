@@ -1,0 +1,47 @@
+.set {
+    position: relative;
+    cursor: pointer;
+    left: 470px;
+    margin-bottom: 30px;
+    line-height: 44px;
+    border-radius: 20px;
+    font-size: 32px;
+    font-weight: 700;
+    border: 0;
+    width: 500px;
+    height: 100px;
+    background-color: #4191FF;
+    color: #FFFFFF;
+}
+.set:hover {
+    background-color: #7bb2ff;
+}
+.reset {
+    position: relative;
+    cursor: pointer;
+    left: 470px;
+    height: 44px;
+    border-radius: 20px;
+    font-size: 32px;
+    font-weight: 700;
+    border: 0;
+    width: 500px;
+    height: 100px;
+    background-color: #D45366;
+    color: #FFFFFF;
+}
+.reset:hover {
+    background-color: #d38994;
+}
+.counter {
+    margin-top: 126px;
+    margin-left: 709px;
+    font-weight: 700;
+    line-height: 44px;
+    text-align: left;
+    font-size: 32px;
+    color: black;
+}
+container {
+position: absolute;
+}
