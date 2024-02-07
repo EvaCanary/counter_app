@@ -1,5 +1,5 @@
-let setButton = document.getElementById('setButton');
-let resetButton = document.getElementById('resetButton') 
+const setButton = document.getElementById('setButton');
+const resetButton = document.getElementById('resetButton') 
 let counterText = document.querySelector('.counter')
 let counter = 0;
 counterText.innerText = counter; 
